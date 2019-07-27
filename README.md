@@ -1,5 +1,6 @@
 # parcel-plugin-browserconfig
 
+[![Build Status](https://florianrappl.visualstudio.com/parcel-plugin-browserconfig/_apis/build/status/FlorianRappl.parcel-plugin-browserconfig?branchName=master)](https://florianrappl.visualstudio.com/parcel-plugin-browserconfig/_build/latest?definitionId=11&branchName=master)
 [![npm](https://img.shields.io/npm/v/parcel-plugin-browserconfig.svg)](https://www.npmjs.com/package/parcel-plugin-browserconfig)
 [![node](https://img.shields.io/node/v/parcel-plugin-browserconfig.svg)](https://www.npmjs.com/package/parcel-plugin-browserconfig)
 [![GitHub tag](https://img.shields.io/github/tag/FlorianRappl/parcel-plugin-browserconfig.svg)](https://github.com/FlorianRappl/parcel-plugin-browserconfig/releases)
