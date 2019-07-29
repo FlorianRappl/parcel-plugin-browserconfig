@@ -1,5 +1,9 @@
 # parcel-plugin-browserconfig Changelog
 
+## 1.0.3
+
+- Updated documentation
+
 ## 1.0.2
 
 - Added Azure DevOps badge

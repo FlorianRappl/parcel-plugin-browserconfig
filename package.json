@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-browserconfig",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple plugin for Parcel to traverse a browserconfig.xml file.",
   "main": "index.js",
   "scripts": {
