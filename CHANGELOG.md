@@ -1,5 +1,9 @@
 # parcel-plugin-browserconfig Changelog
 
+## 1.0.5
+
+- Updated dependencies
+
 ## 1.0.4
 
 - Updated dependencies
